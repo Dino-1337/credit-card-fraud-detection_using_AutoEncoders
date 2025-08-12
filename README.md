@@ -23,7 +23,7 @@ When fraudulent transactions are passed through the model, the reconstruction er
 - F1-score : **0.15**
 - ## ROC Curve
 
-![ROC Curve](images/roc_curve.png)
+![ROC Curve](RocCurve.png)
 ## Dataset
 The dataset used is the [Credit Card Fraud Detection dataset from Kaggle](https://www.kaggle.com/mlg-ulb/creditcardfraud).  
 It contains 284,807 transactions with anonymized features (V1–V28), along with `Time`, `Amount`, and `Class` labels.
